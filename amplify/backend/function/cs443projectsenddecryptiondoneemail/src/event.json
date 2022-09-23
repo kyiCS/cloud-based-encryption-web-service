@@ -1,0 +1,5 @@
+{
+  "file_name": "FILE",
+  "download_url": "PRE-SIGNED URL",
+  "notification_emails": ["EMAIL1", "EMAIL2"]
+}

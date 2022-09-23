@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cs443projectapp-dev-163016-authRole",
+      "UnauthRoleArn": "arn:aws:iam::391912158880:role/amplify-cs443projectapp-dev-163016-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::391912158880:role/amplify-cs443projectapp-dev-163016-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cs443projectapp-dev-163016-deployment",
+      "UnauthRoleName": "amplify-cs443projectapp-dev-163016-unauthRole",
+      "StackName": "amplify-cs443projectapp-dev-163016",
+      "StackId": "arn:aws:cloudformation:us-east-2:391912158880:stack/amplify-cs443projectapp-dev-163016/7171e9e0-4a51-11ec-8eab-06c5cf500f92",
+      "AmplifyAppId": "d1dgte4sl1t021"
+    },
+    "categories": {
+      "auth": {
+        "cs443projectapp94b9ed59": {}
+      },
+      "function": {
+        "cs443projectapistartencryptjob": {
+          "deploymentBucketName": "amplify-cs443projectapp-dev-163016-deployment",
+          "s3Key": "amplify-builds/cs443projectapistartencryptjob-4537737a744f4d4b475a-build.zip"
+        },
+        "cs443projectsendencryptiondoneemail": {
+          "deploymentBucketName": "amplify-cs443projectapp-dev-163016-deployment",
+          "s3Key": "amplify-builds/cs443projectsendencryptiondoneemail-2f344442777a68763273-build.zip"
+        },
+        "cs443projectsenddecryptiondoneemail": {
+          "deploymentBucketName": "amplify-cs443projectapp-dev-163016-deployment",
+          "s3Key": "amplify-builds/cs443projectsenddecryptiondoneemail-566745534f726d477447-build.zip"
+        },
+        "cs443projectapistartdecryptjob": {
+          "deploymentBucketName": "amplify-cs443projectapp-dev-163016-deployment",
+          "s3Key": "amplify-builds/cs443projectapistartdecryptjob-704c74486e563072436d-build.zip"
+        }
+      }
+    }
+  }
+}
